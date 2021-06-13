@@ -1,0 +1,55 @@
+body {
+    background-color: #b2b4f5;
+    
+}
+
+button {
+    font-style: unset;
+    font-size: 16px;
+    font-family: 'Viaoda Libre', cursive;
+    border-style: none;
+    width: 100px;
+    height: 40px;
+    border-radius: 66px;
+background: linear-gradient(145deg, #bec1ff, #a0a2dd);
+box-shadow: 6px 6px 11px #6b6c93,
+-6px -6px 11px #f9fcff;
+}
+
+.container {
+    padding-left: 20px;
+    width: 550px;
+    font-family: 'Viaoda Libre', cursive;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 20px;
+    background: #b2b4f5;
+    box-shadow: 17px 17px 28px #8d8ec2,
+        -17px -17px 28px #d7daff;
+}
+
+.menu-weather {
+    list-style-type: none;
+    font-size: 20px;
+    padding-left: 50px;
+}
+
+.city-weather {
+    font-size: 25px;
+    padding-left: 50px;
+}
+
+.image-weather {
+    padding-top: 50px;
+}
+
+.btn {
+    padding-top: 20px;
+    text-align: left;
+    padding-left: 120px;
+    width: auto;
+    
+    
+}
+
+
